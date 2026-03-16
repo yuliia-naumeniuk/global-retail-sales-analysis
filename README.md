@@ -14,4 +14,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, Exploratory Data Anal
 - Certain regions dominate overall sales performance.
 
 ## Project Notebook
-[Open the analysis in Google Colab]([COLAB_LINK](https://colab.research.google.com/drive/1smJ4Tp5plCfyc3Cakh8VQZ1NoSKHXBla?usp=sharing))
+[Open the analysis in Google Colab](https://colab.research.google.com/drive/1smJ4Tp5plCfyc3Cakh8VQZ1NoSKHXBla?usp=sharing)
