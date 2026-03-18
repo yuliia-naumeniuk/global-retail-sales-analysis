@@ -5,7 +5,7 @@ Python data analysis project exploring global retail sales data to understand pr
 Analyze company sales data to identify key trends in product categories, geographic performance, and shipping efficiency.
 
 ## Tools
-Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, Exploratory Data Analysis
+Python (Pandas, NumPy), Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization (Matplotlib, Seaborn)
 
 ## Key Insights
 - Sales vary significantly across product categories.
